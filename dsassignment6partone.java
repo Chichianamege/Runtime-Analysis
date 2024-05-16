@@ -1,8 +1,5 @@
 // Name: Chidera Anamege
-// Class: CS 3305
-// Term: Spring 2024
-// Instructor: Carla McManus
-// Assignment: 06-Part-2.1-Time
+
 
 import java.util.Date;
 
